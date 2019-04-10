@@ -85,6 +85,7 @@ namespace Big_School.Models
         public string Name { get; set; }
     }
 
+    //commmit
     public class ResetPasswordViewModel
     {
         [Required]
